@@ -1,0 +1,18 @@
+div.ProfessionalShareBox {
+    clear: both;
+}
+
+div.ProfessionalShareBox *{
+    margin: 0px;
+    float:none;
+    vertical-align: baseline !important;
+}
+div.PSBtn {
+    display: inline-block;
+    padding-top:5px;
+    padding-bottom: 5px;
+}
+
+iframe {
+ max-width: none;
+}
